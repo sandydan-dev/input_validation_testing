@@ -1,0 +1,21 @@
+{
+  "name": "usersinputvalidation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
